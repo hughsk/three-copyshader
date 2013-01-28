@@ -1,0 +1,19 @@
+{
+  "name": "three-copyshader",
+  "version": "0.0.1",
+  "description": "Browserify-friendly version of `THREE.CopyShader`",
+  "main": "index.js",
+  "keywords": [
+    "three.js",
+    "copy",
+    "shader",
+    "texture",
+    "quad"
+  ],
+  "author": "alteredq (http://alteredqualia.com/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/three-copyshader.git"
+  }
+}
